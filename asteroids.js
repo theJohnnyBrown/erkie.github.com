@@ -1,3 +1,4 @@
+/**whoa a comment **/
 (function() {
 function Asteroids() {
 	if ( ! window.ASTEROIDS )
